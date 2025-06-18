@@ -1,0 +1,3 @@
+name = "bpb-panel-1"
+main = "dist/worker.js"           # <-- or "dist/index.js" if that's the file your build emits
+compatibility_date = "2025-06-18"
